@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkriveMaskine", "SkriveMaskine.csproj", "{E76654DE-25EE-4CCD-8025-2BA656F7852F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E76654DE-25EE-4CCD-8025-2BA656F7852F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E76654DE-25EE-4CCD-8025-2BA656F7852F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E76654DE-25EE-4CCD-8025-2BA656F7852F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E76654DE-25EE-4CCD-8025-2BA656F7852F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {71D4C54C-FD6B-4832-821B-194C5B4E4EE0}
+	EndGlobalSection
+EndGlobal
